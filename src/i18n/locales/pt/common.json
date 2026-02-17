@@ -1,0 +1,12 @@
+{
+  "common": {
+    "appName": "GameTemplate",
+    "back": "Voltar"
+  },
+  "languages": {
+    "pt": "Português",
+    "en": "Inglês",
+    "fr": "Francês",
+    "es": "Espanhol"
+  }
+}

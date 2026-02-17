@@ -1,0 +1,15 @@
+{
+  "game": {
+    "welcome": "Bem-vindo",
+    "save": "Salvar",
+    "load": "Carregar"
+  },
+  "settings": {
+    "title": "Configurações",
+    "selectLanguage": "Selecionar idioma",
+    "selectTheme": "Selecionar tema",
+    "themeSystem": "Sistema",
+    "themeLight": "Claro",
+    "themeDark": "Escuro"
+  }
+}

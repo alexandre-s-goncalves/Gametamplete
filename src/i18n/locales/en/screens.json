@@ -1,0 +1,15 @@
+{
+  "game": {
+    "welcome": "Welcome",
+    "save": "Save",
+    "load": "Load"
+  },
+  "settings": {
+    "title": "Settings",
+    "selectLanguage": "Select language",
+    "selectTheme": "Select theme",
+    "themeSystem": "System",
+    "themeLight": "Light",
+    "themeDark": "Dark"
+  }
+}

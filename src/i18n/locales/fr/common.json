@@ -1,0 +1,12 @@
+{
+  "common": {
+    "appName": "GameTemplate",
+    "back": "Retour"
+  },
+  "languages": {
+    "pt": "Portugais",
+    "en": "Anglais",
+    "fr": "Français",
+    "es": "Espagnol"
+  }
+}

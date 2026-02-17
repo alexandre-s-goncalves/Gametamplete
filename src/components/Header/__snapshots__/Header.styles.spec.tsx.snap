@@ -1,0 +1,56 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header styles Container SHOULD apply layout and border correctly 1`] = `
+<View
+  style={
+    {
+      "alignItems": "center",
+      "backgroundColor": "#f0f0f0",
+      "borderBottomColor": "#cccccc",
+      "borderBottomWidth": 1,
+      "flexDirection": "row",
+      "height": 56,
+      "justifyContent": "space-between",
+      "paddingHorizontal": 24,
+    }
+  }
+/>
+`;
+
+exports[`Header styles SafeArea SHOULD apply StatusBar.currentHeight WHEN Platform is Android 1`] = `
+<RNCSafeAreaView
+  edges={
+    {
+      "bottom": "off",
+      "left": "off",
+      "right": "off",
+      "top": "additive",
+    }
+  }
+  style={
+    {
+      "backgroundColor": "#ffffff",
+      "paddingTop": 42,
+    }
+  }
+/>
+`;
+
+exports[`Header styles SafeArea SHOULD apply paddingTop=0 WHEN Platform is iOS 1`] = `
+<RNCSafeAreaView
+  edges={
+    {
+      "bottom": "off",
+      "left": "off",
+      "right": "off",
+      "top": "additive",
+    }
+  }
+  style={
+    {
+      "backgroundColor": "#ffffff",
+      "paddingTop": 0,
+    }
+  }
+/>
+`;

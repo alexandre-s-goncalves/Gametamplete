@@ -1,0 +1,225 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ThemeSelector styles SHOULD render Backdrop with correct background and layout 1`] = `
+<View
+  accessibilityState={
+    {
+      "busy": undefined,
+      "checked": undefined,
+      "disabled": undefined,
+      "expanded": undefined,
+      "selected": undefined,
+    }
+  }
+  accessibilityValue={
+    {
+      "max": undefined,
+      "min": undefined,
+      "now": undefined,
+      "text": undefined,
+    }
+  }
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onBlur={[Function]}
+  onClick={[Function]}
+  onFocus={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    {
+      "backgroundColor": "#00000080",
+      "flexBasis": 0,
+      "flexGrow": 1,
+      "flexShrink": 1,
+      "justifyContent": "center",
+    }
+  }
+/>
+`;
+
+exports[`ThemeSelector styles SHOULD render Container with marginTop 1`] = `
+<View
+  style={
+    {
+      "marginTop": 32,
+    }
+  }
+/>
+`;
+
+exports[`ThemeSelector styles SHOULD render Label with theme color and marginBottom 1`] = `
+<Text
+  style={
+    [
+      {
+        "color": "#000000",
+        "fontFamily": "Inter-Regular",
+        "fontSize": 16,
+        "fontWeight": "400",
+      },
+      {
+        "color": "#000000",
+        "marginBottom": 16,
+      },
+    ]
+  }
+>
+  Label
+</Text>
+`;
+
+exports[`ThemeSelector styles SHOULD render ModalContent with background, borderRadius, margin and padding 1`] = `
+<View
+  style={
+    {
+      "backgroundColor": "#f0f0f0",
+      "borderBottomLeftRadius": 12,
+      "borderBottomRightRadius": 12,
+      "borderTopLeftRadius": 12,
+      "borderTopRightRadius": 12,
+      "marginBottom": 24,
+      "marginLeft": 24,
+      "marginRight": 24,
+      "marginTop": 24,
+      "paddingBottom": 24,
+      "paddingLeft": 24,
+      "paddingRight": 24,
+      "paddingTop": 24,
+    }
+  }
+/>
+`;
+
+exports[`ThemeSelector styles SHOULD render Option with vertical padding 1`] = `
+<View
+  accessibilityState={
+    {
+      "busy": undefined,
+      "checked": undefined,
+      "disabled": undefined,
+      "expanded": undefined,
+      "selected": undefined,
+    }
+  }
+  accessibilityValue={
+    {
+      "max": undefined,
+      "min": undefined,
+      "now": undefined,
+      "text": undefined,
+    }
+  }
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onBlur={[Function]}
+  onClick={[Function]}
+  onFocus={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    {
+      "paddingVertical": 16,
+    }
+  }
+/>
+`;
+
+exports[`ThemeSelector styles SHOULD render OptionText with theme color 1`] = `
+<Text
+  style={
+    [
+      {
+        "color": "#000000",
+        "fontFamily": "Inter-Regular",
+        "fontSize": 16,
+        "fontWeight": "400",
+      },
+      {
+        "color": "#000000",
+      },
+    ]
+  }
+>
+  Option
+</Text>
+`;
+
+exports[`ThemeSelector styles SHOULD render SelectedButton with border and padding 1`] = `
+<View
+  accessibilityState={
+    {
+      "busy": undefined,
+      "checked": undefined,
+      "disabled": undefined,
+      "expanded": undefined,
+      "selected": undefined,
+    }
+  }
+  accessibilityValue={
+    {
+      "max": undefined,
+      "min": undefined,
+      "now": undefined,
+      "text": undefined,
+    }
+  }
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onBlur={[Function]}
+  onClick={[Function]}
+  onFocus={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    {
+      "backgroundColor": "#f0f0f0",
+      "borderBottomLeftRadius": 8,
+      "borderBottomRightRadius": 8,
+      "borderColor": "#cccccc",
+      "borderTopLeftRadius": 8,
+      "borderTopRightRadius": 8,
+      "borderWidth": 1,
+      "paddingBottom": 24,
+      "paddingLeft": 24,
+      "paddingRight": 24,
+      "paddingTop": 24,
+    }
+  }
+/>
+`;
+
+exports[`ThemeSelector styles SHOULD render SelectedText with theme color 1`] = `
+<Text
+  style={
+    [
+      {
+        "color": "#000000",
+        "fontFamily": "Inter-Regular",
+        "fontSize": 16,
+        "fontWeight": "400",
+      },
+      {
+        "color": "#000000",
+      },
+    ]
+  }
+>
+  Selected
+</Text>
+`;

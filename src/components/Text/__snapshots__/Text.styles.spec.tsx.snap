@@ -1,0 +1,241 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Text styles snapshots applies custom color when provided 1`] = `
+<Text
+  style={
+    {
+      "color": "#FF0000",
+      "fontFamily": "Inter-Regular",
+      "fontSize": 16,
+      "fontWeight": "400",
+    }
+  }
+>
+  Colored
+</Text>
+`;
+
+exports[`Text styles snapshots renders correctly with variant=bold and size=big 1`] = `
+<Text
+  style={
+    {
+      "color": "#000000",
+      "fontFamily": "Inter-Bold",
+      "fontSize": 24,
+      "fontWeight": "700",
+    }
+  }
+>
+  Sample
+</Text>
+`;
+
+exports[`Text styles snapshots renders correctly with variant=bold and size=medium 1`] = `
+<Text
+  style={
+    {
+      "color": "#000000",
+      "fontFamily": "Inter-Bold",
+      "fontSize": 18,
+      "fontWeight": "700",
+    }
+  }
+>
+  Sample
+</Text>
+`;
+
+exports[`Text styles snapshots renders correctly with variant=bold and size=small 1`] = `
+<Text
+  style={
+    {
+      "color": "#000000",
+      "fontFamily": "Inter-Bold",
+      "fontSize": 16,
+      "fontWeight": "700",
+    }
+  }
+>
+  Sample
+</Text>
+`;
+
+exports[`Text styles snapshots renders correctly with variant=bold and size=xsmall 1`] = `
+<Text
+  style={
+    {
+      "color": "#000000",
+      "fontFamily": "Inter-Bold",
+      "fontSize": 14,
+      "fontWeight": "700",
+    }
+  }
+>
+  Sample
+</Text>
+`;
+
+exports[`Text styles snapshots renders correctly with variant=bold and size=xxsmall 1`] = `
+<Text
+  style={
+    {
+      "color": "#000000",
+      "fontFamily": "Inter-Bold",
+      "fontSize": 12,
+      "fontWeight": "700",
+    }
+  }
+>
+  Sample
+</Text>
+`;
+
+exports[`Text styles snapshots renders correctly with variant=regular and size=big 1`] = `
+<Text
+  style={
+    {
+      "color": "#000000",
+      "fontFamily": "Inter-Regular",
+      "fontSize": 24,
+      "fontWeight": "400",
+    }
+  }
+>
+  Sample
+</Text>
+`;
+
+exports[`Text styles snapshots renders correctly with variant=regular and size=medium 1`] = `
+<Text
+  style={
+    {
+      "color": "#000000",
+      "fontFamily": "Inter-Regular",
+      "fontSize": 18,
+      "fontWeight": "400",
+    }
+  }
+>
+  Sample
+</Text>
+`;
+
+exports[`Text styles snapshots renders correctly with variant=regular and size=small 1`] = `
+<Text
+  style={
+    {
+      "color": "#000000",
+      "fontFamily": "Inter-Regular",
+      "fontSize": 16,
+      "fontWeight": "400",
+    }
+  }
+>
+  Sample
+</Text>
+`;
+
+exports[`Text styles snapshots renders correctly with variant=regular and size=xsmall 1`] = `
+<Text
+  style={
+    {
+      "color": "#000000",
+      "fontFamily": "Inter-Regular",
+      "fontSize": 14,
+      "fontWeight": "400",
+    }
+  }
+>
+  Sample
+</Text>
+`;
+
+exports[`Text styles snapshots renders correctly with variant=regular and size=xxsmall 1`] = `
+<Text
+  style={
+    {
+      "color": "#000000",
+      "fontFamily": "Inter-Regular",
+      "fontSize": 12,
+      "fontWeight": "400",
+    }
+  }
+>
+  Sample
+</Text>
+`;
+
+exports[`Text styles snapshots renders correctly with variant=semibold and size=big 1`] = `
+<Text
+  style={
+    {
+      "color": "#000000",
+      "fontFamily": "Inter-SemiBold",
+      "fontSize": 24,
+      "fontWeight": "600",
+    }
+  }
+>
+  Sample
+</Text>
+`;
+
+exports[`Text styles snapshots renders correctly with variant=semibold and size=medium 1`] = `
+<Text
+  style={
+    {
+      "color": "#000000",
+      "fontFamily": "Inter-SemiBold",
+      "fontSize": 18,
+      "fontWeight": "600",
+    }
+  }
+>
+  Sample
+</Text>
+`;
+
+exports[`Text styles snapshots renders correctly with variant=semibold and size=small 1`] = `
+<Text
+  style={
+    {
+      "color": "#000000",
+      "fontFamily": "Inter-SemiBold",
+      "fontSize": 16,
+      "fontWeight": "600",
+    }
+  }
+>
+  Sample
+</Text>
+`;
+
+exports[`Text styles snapshots renders correctly with variant=semibold and size=xsmall 1`] = `
+<Text
+  style={
+    {
+      "color": "#000000",
+      "fontFamily": "Inter-SemiBold",
+      "fontSize": 14,
+      "fontWeight": "600",
+    }
+  }
+>
+  Sample
+</Text>
+`;
+
+exports[`Text styles snapshots renders correctly with variant=semibold and size=xxsmall 1`] = `
+<Text
+  style={
+    {
+      "color": "#000000",
+      "fontFamily": "Inter-SemiBold",
+      "fontSize": 12,
+      "fontWeight": "600",
+    }
+  }
+>
+  Sample
+</Text>
+`;

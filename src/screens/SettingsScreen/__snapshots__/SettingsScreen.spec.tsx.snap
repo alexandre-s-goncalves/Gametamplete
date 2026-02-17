@@ -1,0 +1,220 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SettingsScreen rendering SHOULD match snapshot 1`] = `
+<View
+  style={
+    {
+      "backgroundColor": "#F7F5F2",
+      "height": "100%",
+      "paddingBottom": 24,
+      "paddingLeft": 24,
+      "paddingRight": 24,
+      "paddingTop": 24,
+    }
+  }
+>
+  <Text
+    style={
+      [
+        {
+          "color": "#0a0a0a",
+          "fontFamily": "Inter-Bold",
+          "fontSize": 18,
+          "fontWeight": "700",
+        },
+        {
+          "marginBottom": 20,
+        },
+      ]
+    }
+  >
+    ⚙️ 
+    Settings
+  </Text>
+  <View
+    style={
+      {
+        "marginTop": 24,
+      }
+    }
+    testID="language-selector"
+  >
+    <Text
+      style={
+        [
+          {
+            "color": "#0a0a0a",
+            "fontFamily": "Inter-Regular",
+            "fontSize": 16,
+            "fontWeight": "400",
+          },
+          {
+            "color": "#0a0a0a",
+            "marginBottom": 16,
+            "opacity": 0.7,
+          },
+        ]
+      }
+      testID="language-label"
+    >
+      Select Language
+    </Text>
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onFocus={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "backgroundColor": "#F7F5F2",
+          "borderBottomLeftRadius": 8,
+          "borderBottomRightRadius": 8,
+          "borderColor": "#D9DDDB",
+          "borderTopLeftRadius": 8,
+          "borderTopRightRadius": 8,
+          "borderWidth": 1,
+          "paddingBottom": 24,
+          "paddingLeft": 24,
+          "paddingRight": 24,
+          "paddingTop": 24,
+        }
+      }
+      testID="selected-button"
+    >
+      <Text
+        style={
+          [
+            {
+              "color": "#0a0a0a",
+              "fontFamily": "Inter-Regular",
+              "fontSize": 16,
+              "fontWeight": "400",
+            },
+            {
+              "color": "#0a0a0a",
+            },
+          ]
+        }
+        testID="selected-text"
+      />
+    </View>
+  </View>
+  <View
+    style={
+      {
+        "marginTop": 32,
+      }
+    }
+    testID="theme-selector"
+  >
+    <Text
+      style={
+        [
+          {
+            "color": "#0a0a0a",
+            "fontFamily": "Inter-Regular",
+            "fontSize": 16,
+            "fontWeight": "400",
+          },
+          {
+            "color": "#0a0a0a",
+            "marginBottom": 16,
+          },
+        ]
+      }
+      testID="theme-label"
+    >
+      Select Theme
+    </Text>
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onFocus={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "backgroundColor": "#F7F5F2",
+          "borderBottomLeftRadius": 8,
+          "borderBottomRightRadius": 8,
+          "borderColor": "#D9DDDB",
+          "borderTopLeftRadius": 8,
+          "borderTopRightRadius": 8,
+          "borderWidth": 1,
+          "paddingBottom": 24,
+          "paddingLeft": 24,
+          "paddingRight": 24,
+          "paddingTop": 24,
+        }
+      }
+      testID="selected-button"
+    >
+      <Text
+        style={
+          [
+            {
+              "color": "#0a0a0a",
+              "fontFamily": "Inter-Regular",
+              "fontSize": 16,
+              "fontWeight": "400",
+            },
+            {
+              "color": "#0a0a0a",
+            },
+          ]
+        }
+        testID="selected-text"
+      />
+    </View>
+  </View>
+</View>
+`;

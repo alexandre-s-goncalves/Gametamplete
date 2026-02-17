@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Settings Screen styles SHOULD match snapshot for Container 1`] = `
+<View
+  style={
+    {
+      "backgroundColor": "#F7F5F2",
+      "height": "100%",
+      "paddingBottom": 24,
+      "paddingLeft": 24,
+      "paddingRight": 24,
+      "paddingTop": 24,
+    }
+  }
+  testID="container"
+/>
+`;
+
+exports[`Settings Screen styles SHOULD match snapshot for Title 1`] = `
+<Text
+  style={
+    [
+      {
+        "color": "#0a0a0a",
+        "fontFamily": "Inter-Bold",
+        "fontSize": 18,
+        "fontWeight": "700",
+      },
+      {
+        "marginBottom": 20,
+      },
+    ]
+  }
+>
+  Settings
+</Text>
+`;

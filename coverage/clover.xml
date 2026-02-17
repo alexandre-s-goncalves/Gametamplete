@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1771349965871" clover="3.2.0">
+  <project timestamp="1771349965871" name="All files">
+    <metrics statements="146" coveredstatements="146" conditionals="35" coveredconditionals="35" methods="54" coveredmethods="54" elements="235" coveredelements="235" complexity="0" loc="146" ncloc="146" packages="16" files="24" classes="24"/>
+    <package name="components.Header">
+      <metrics statements="11" coveredstatements="11" conditionals="4" coveredconditionals="4" methods="4" coveredmethods="4"/>
+      <file name="Header.styles.ts" path="/Users/alexandredossantosgoncalves/Repositories/GameTemplete/src/components/Header/Header.styles.ts">
+        <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="7" count="9" type="stmt"/>
+        <line num="12" count="3" type="stmt"/>
+        <line num="16" count="3" type="stmt"/>
+        <line num="20" count="8" type="stmt"/>
+        <line num="31" count="3" type="stmt"/>
+      </file>
+      <file name="Header.tsx" path="/Users/alexandredossantosgoncalves/Repositories/GameTemplete/src/components/Header/Header.tsx">
+        <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="13" count="7" type="stmt"/>
+        <line num="14" count="7" type="stmt"/>
+        <line num="16" count="7" type="stmt"/>
+        <line num="18" count="7" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.LanguageSelector">
+      <metrics statements="24" coveredstatements="24" conditionals="0" coveredconditionals="0" methods="13" coveredmethods="13"/>
+      <file name="LanguageSelector.styles.ts" path="/Users/alexandredossantosgoncalves/Repositories/GameTemplete/src/components/LanguageSelector/LanguageSelector.styles.ts">
+        <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5"/>
+        <line num="6" count="3" type="stmt"/>
+        <line num="12" count="3" type="stmt"/>
+        <line num="16" count="17" type="stmt"/>
+        <line num="22" count="5" type="stmt"/>
+        <line num="29" count="3" type="stmt"/>
+        <line num="33" count="17" type="stmt"/>
+        <line num="37" count="17" type="stmt"/>
+        <line num="45" count="17" type="stmt"/>
+      </file>
+      <file name="LanguageSelector.tsx" path="/Users/alexandredossantosgoncalves/Repositories/GameTemplete/src/components/LanguageSelector/LanguageSelector.tsx">
+        <metrics statements="16" coveredstatements="16" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="8"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="17" count="16" type="stmt"/>
+        <line num="18" count="16" type="stmt"/>
+        <line num="19" count="16" type="stmt"/>
+        <line num="20" count="16" type="stmt"/>
+        <line num="22" count="16" type="stmt"/>
+        <line num="24" count="16" type="stmt"/>
+        <line num="25" count="64" type="stmt"/>
+        <line num="33" count="16" type="stmt"/>
+        <line num="34" count="42" type="stmt"/>
+        <line num="37" count="16" type="stmt"/>
+        <line num="42" count="4" type="stmt"/>
+        <line num="52" count="1" type="stmt"/>
+        <line num="55" count="64" type="stmt"/>
+        <line num="59" count="1" type="stmt"/>
+        <line num="60" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.Text">
+      <metrics statements="14" coveredstatements="14" conditionals="7" coveredconditionals="7" methods="3" coveredmethods="3"/>
+      <file name="Text.styles.ts" path="/Users/alexandredossantosgoncalves/Repositories/GameTemplete/src/components/Text/Text.styles.ts">
+        <metrics statements="12" coveredstatements="12" conditionals="5" coveredconditionals="5" methods="2" coveredmethods="2"/>
+        <line num="14" count="138" type="stmt"/>
+        <line num="20" count="138" type="cond" truecount="3" falsecount="0"/>
+        <line num="22" count="11" type="stmt"/>
+        <line num="23" count="11" type="stmt"/>
+        <line num="24" count="11" type="stmt"/>
+        <line num="26" count="5" type="stmt"/>
+        <line num="27" count="5" type="stmt"/>
+        <line num="28" count="5" type="stmt"/>
+        <line num="30" count="122" type="stmt"/>
+        <line num="31" count="122" type="stmt"/>
+        <line num="32" count="122" type="stmt"/>
+        <line num="35" count="138" type="stmt"/>
+      </file>
+      <file name="Text.tsx" path="/Users/alexandredossantosgoncalves/Repositories/GameTemplete/src/components/Text/Text.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="11" count="11" type="stmt"/>
+        <line num="19" count="138" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.ThemeSelector">
+      <metrics statements="22" coveredstatements="22" conditionals="0" coveredconditionals="0" methods="12" coveredmethods="12"/>
+      <file name="ThemeSelector.styles.ts" path="/Users/alexandredossantosgoncalves/Repositories/GameTemplete/src/components/ThemeSelector/ThemeSelector.styles.ts">
+        <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5"/>
+        <line num="6" count="3" type="stmt"/>
+        <line num="12" count="3" type="stmt"/>
+        <line num="16" count="17" type="stmt"/>
+        <line num="21" count="5" type="stmt"/>
+        <line num="28" count="3" type="stmt"/>
+        <line num="32" count="13" type="stmt"/>
+        <line num="36" count="17" type="stmt"/>
+        <line num="44" count="17" type="stmt"/>
+      </file>
+      <file name="ThemeSelector.tsx" path="/Users/alexandredossantosgoncalves/Repositories/GameTemplete/src/components/ThemeSelector/ThemeSelector.tsx">
+        <metrics statements="14" coveredstatements="14" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="7"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="16" count="16" type="stmt"/>
+        <line num="17" count="16" type="stmt"/>
+        <line num="18" count="16" type="stmt"/>
+        <line num="20" count="16" type="stmt"/>
+        <line num="21" count="16" type="stmt"/>
+        <line num="29" count="16" type="stmt"/>
+        <line num="30" count="37" type="stmt"/>
+        <line num="33" count="16" type="stmt"/>
+        <line num="38" count="4" type="stmt"/>
+        <line num="48" count="1" type="stmt"/>
+        <line num="51" count="48" type="stmt"/>
+        <line num="55" count="1" type="stmt"/>
+        <line num="56" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="constants.languages">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="languages.ts" path="/Users/alexandredossantosgoncalves/Repositories/GameTemplete/src/constants/languages/languages.ts">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="hooks.useAppFonts">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="useAppFonts.ts" path="/Users/alexandredossantosgoncalves/Repositories/GameTemplete/src/hooks/useAppFonts/useAppFonts.ts">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="10" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="hooks.useAppLanguage">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="useAppLanguage.ts" path="/Users/alexandredossantosgoncalves/Repositories/GameTemplete/src/hooks/useAppLanguage/useAppLanguage.ts">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="8" type="stmt"/>
+      </file>
+    </package>
+    <package name="hooks.useAppTheme">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="useAppTheme.ts" path="/Users/alexandredossantosgoncalves/Repositories/GameTemplete/src/hooks/useAppTheme/useAppTheme.ts">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="7" type="stmt"/>
+      </file>
+    </package>
+    <package name="i18n">
+      <metrics statements="15" coveredstatements="15" conditionals="8" coveredconditionals="8" methods="3" coveredmethods="3"/>
+      <file name="index.ts" path="/Users/alexandredossantosgoncalves/Repositories/GameTemplete/src/i18n/index.ts">
+        <metrics statements="15" coveredstatements="15" conditionals="8" coveredconditionals="8" methods="3" coveredmethods="3"/>
+        <line num="24" count="2" type="stmt"/>
+        <line num="47" count="2" type="stmt"/>
+        <line num="50" count="5" type="stmt"/>
+        <line num="52" count="5" type="cond" truecount="4" falsecount="0"/>
+        <line num="53" count="3" type="stmt"/>
+        <line num="56" count="2" type="stmt"/>
+        <line num="58" count="2" type="cond" truecount="4" falsecount="0"/>
+        <line num="59" count="1" type="stmt"/>
+        <line num="62" count="1" type="stmt"/>
+        <line num="66" count="1" type="stmt"/>
+        <line num="67" count="1" type="stmt"/>
+        <line num="71" count="1" type="stmt"/>
+        <line num="72" count="1" type="stmt"/>
+        <line num="73" count="1" type="stmt"/>
+        <line num="76" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="providers.AppProvider">
+      <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="AppProvider.tsx" path="/Users/alexandredossantosgoncalves/Repositories/GameTemplete/src/providers/AppProvider/AppProvider.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="12" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="14" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="providers.AppThemeProvider">
+      <metrics statements="19" coveredstatements="19" conditionals="8" coveredconditionals="8" methods="5" coveredmethods="5"/>
+      <file name="AppThemeProvider.tsx" path="/Users/alexandredossantosgoncalves/Repositories/GameTemplete/src/providers/AppThemeProvider/AppThemeProvider.tsx">
+        <metrics statements="19" coveredstatements="19" conditionals="8" coveredconditionals="8" methods="5" coveredmethods="5"/>
+        <line num="9" count="4" type="stmt"/>
+        <line num="16" count="4" type="stmt"/>
+        <line num="18" count="4" type="stmt"/>
+        <line num="21" count="8" type="stmt"/>
+        <line num="22" count="8" type="stmt"/>
+        <line num="24" count="8" type="stmt"/>
+        <line num="26" count="4" type="stmt"/>
+        <line num="28" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="29" count="4" type="stmt"/>
+        <line num="30" count="4" type="stmt"/>
+        <line num="33" count="4" type="stmt"/>
+        <line num="37" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="38" count="2" type="stmt"/>
+        <line num="39" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="41" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="46" count="1" type="stmt"/>
+        <line num="47" count="1" type="stmt"/>
+        <line num="48" count="1" type="stmt"/>
+        <line num="51" count="8" type="stmt"/>
+      </file>
+    </package>
+    <package name="providers.LanguageProvider">
+      <metrics statements="16" coveredstatements="16" conditionals="4" coveredconditionals="4" methods="4" coveredmethods="4"/>
+      <file name="LanguageProvider.tsx" path="/Users/alexandredossantosgoncalves/Repositories/GameTemplete/src/providers/LanguageProvider/LanguageProvider.tsx">
+        <metrics statements="16" coveredstatements="16" conditionals="4" coveredconditionals="4" methods="4" coveredmethods="4"/>
+        <line num="11" count="4" type="stmt"/>
+        <line num="15" count="4" type="stmt"/>
+        <line num="16" count="9" type="stmt"/>
+        <line num="17" count="9" type="stmt"/>
+        <line num="19" count="9" type="stmt"/>
+        <line num="21" count="4" type="stmt"/>
+        <line num="22" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="23" count="4" type="stmt"/>
+        <line num="24" count="4" type="stmt"/>
+        <line num="25" count="4" type="stmt"/>
+        <line num="27" count="4" type="stmt"/>
+        <line num="30" count="9" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="32" count="1" type="stmt"/>
+        <line num="35" count="9" type="cond" truecount="2" falsecount="0"/>
+        <line num="37" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="resources">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="colors.ts" path="/Users/alexandredossantosgoncalves/Repositories/GameTemplete/src/resources/colors.ts">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="9" type="stmt"/>
+      </file>
+      <file name="spacing.ts" path="/Users/alexandredossantosgoncalves/Repositories/GameTemplete/src/resources/spacing.ts">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="9" type="stmt"/>
+      </file>
+      <file name="typography.ts" path="/Users/alexandredossantosgoncalves/Repositories/GameTemplete/src/resources/typography.ts">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="11" type="stmt"/>
+      </file>
+    </package>
+    <package name="resources.themes">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="dark.ts" path="/Users/alexandredossantosgoncalves/Repositories/GameTemplete/src/resources/themes/dark.ts">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="4" type="stmt"/>
+      </file>
+      <file name="light.ts" path="/Users/alexandredossantosgoncalves/Repositories/GameTemplete/src/resources/themes/light.ts">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="routes">
+      <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3"/>
+      <file name="routes.tsx" path="/Users/alexandredossantosgoncalves/Repositories/GameTemplete/src/routes/routes.tsx">
+        <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="4" type="stmt"/>
+        <line num="18" count="4" type="stmt"/>
+        <line num="23" count="4" type="stmt"/>
+        <line num="26" count="8" type="stmt"/>
+        <line num="28" count="8" type="cond" truecount="2" falsecount="0"/>
+      </file>
+    </package>
+    <package name="screens.SettingsScreen">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <file name="SettingsScreen.styles.ts" path="/Users/alexandredossantosgoncalves/Repositories/GameTemplete/src/screens/SettingsScreen/SettingsScreen.styles.ts">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="11" count="5" type="stmt"/>
+      </file>
+      <file name="SettingsScreen.tsx" path="/Users/alexandredossantosgoncalves/Repositories/GameTemplete/src/screens/SettingsScreen/SettingsScreen.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="4" type="stmt"/>
+        <line num="9" count="4" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
