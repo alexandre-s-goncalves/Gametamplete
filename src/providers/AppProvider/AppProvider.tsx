@@ -1,6 +1,7 @@
 import { useAppFonts } from 'hooks/useAppFonts';
 import { AppThemeProvider } from '../AppThemeProvider';
 import { LanguageProvider } from '../LanguageProvider';
+import { RecordProvider } from '../RecordProvider';
 
 type AppProviderProps = {
   children: React.ReactNode;
@@ -13,7 +14,9 @@ export function AppProvider({ children }: AppProviderProps) {
 
   return (
     <AppThemeProvider>
-      <LanguageProvider>{children}</LanguageProvider>
+      <LanguageProvider>
+        <RecordProvider>{children}</RecordProvider>
+      </LanguageProvider>
     </AppThemeProvider>
   );
 }

@@ -2,7 +2,7 @@ import React from 'react';
 import { TextProps } from 'react-native';
 import { Size, StyledText, Variant } from './Text.styles';
 
-interface Props extends TextProps {
+export interface PropsText extends TextProps {
   variant?: Variant;
   size?: Size;
   color?: string;
@@ -15,7 +15,7 @@ export const Text = ({
   color,
   style,
   ...rest
-}: Props) => {
+}: PropsText) => {
   return (
     <StyledText
       $variant={variant}

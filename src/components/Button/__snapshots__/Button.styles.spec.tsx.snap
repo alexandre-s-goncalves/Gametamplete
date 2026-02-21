@@ -1,0 +1,362 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button styles SHOULD render Container with disabled state and primary variant 1`] = `
+<View
+  accessibilityState={
+    {
+      "busy": undefined,
+      "checked": undefined,
+      "disabled": true,
+      "expanded": undefined,
+      "selected": undefined,
+    }
+  }
+  accessibilityValue={
+    {
+      "max": undefined,
+      "min": undefined,
+      "now": undefined,
+      "text": undefined,
+    }
+  }
+  accessible={true}
+  collapsable={false}
+  focusable={false}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    {
+      "activeOpacity": 0.8,
+      "alignItems": "center",
+      "backgroundColor": "#007AFF",
+      "borderBottomLeftRadius": 8,
+      "borderBottomRightRadius": 8,
+      "borderColor": "transparent",
+      "borderTopLeftRadius": 8,
+      "borderTopRightRadius": 8,
+      "borderWidth": 0,
+      "justifyContent": "center",
+      "opacity": 0.6,
+      "paddingHorizontal": 16,
+      "paddingVertical": 12,
+    }
+  }
+>
+  <Text
+    style={
+      [
+        {
+          "color": "#000000",
+          "fontFamily": "Inter-Regular",
+          "fontSize": 16,
+          "fontWeight": "400",
+        },
+        {
+          "size": "small",
+          "variant": "semibold",
+        },
+      ]
+    }
+  >
+    Disabled Button
+  </Text>
+</View>
+`;
+
+exports[`Button styles SHOULD render Container with disabled state and secondary variant 1`] = `
+<View
+  accessibilityState={
+    {
+      "busy": undefined,
+      "checked": undefined,
+      "disabled": true,
+      "expanded": undefined,
+      "selected": undefined,
+    }
+  }
+  accessibilityValue={
+    {
+      "max": undefined,
+      "min": undefined,
+      "now": undefined,
+      "text": undefined,
+    }
+  }
+  accessible={true}
+  collapsable={false}
+  focusable={false}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    {
+      "activeOpacity": 0.8,
+      "alignItems": "center",
+      "backgroundColor": "transparent",
+      "borderBottomLeftRadius": 8,
+      "borderBottomRightRadius": 8,
+      "borderColor": "#cccccc",
+      "borderTopLeftRadius": 8,
+      "borderTopRightRadius": 8,
+      "borderWidth": 1,
+      "justifyContent": "center",
+      "opacity": 0.6,
+      "paddingHorizontal": 16,
+      "paddingVertical": 12,
+    }
+  }
+>
+  <Text
+    style={
+      [
+        {
+          "color": "#000000",
+          "fontFamily": "Inter-Regular",
+          "fontSize": 16,
+          "fontWeight": "400",
+        },
+        {
+          "size": "small",
+          "variant": "semibold",
+        },
+      ]
+    }
+  >
+    Disabled Button
+  </Text>
+</View>
+`;
+
+exports[`Button styles SHOULD render Container with primary variant 1`] = `
+<View
+  accessibilityState={
+    {
+      "busy": undefined,
+      "checked": undefined,
+      "disabled": undefined,
+      "expanded": undefined,
+      "selected": undefined,
+    }
+  }
+  accessibilityValue={
+    {
+      "max": undefined,
+      "min": undefined,
+      "now": undefined,
+      "text": undefined,
+    }
+  }
+  accessible={true}
+  collapsable={false}
+  focusable={false}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    {
+      "activeOpacity": 0.8,
+      "alignItems": "center",
+      "backgroundColor": "#007AFF",
+      "borderBottomLeftRadius": 8,
+      "borderBottomRightRadius": 8,
+      "borderColor": "transparent",
+      "borderTopLeftRadius": 8,
+      "borderTopRightRadius": 8,
+      "borderWidth": 0,
+      "justifyContent": "center",
+      "opacity": 1,
+      "paddingHorizontal": 16,
+      "paddingVertical": 12,
+    }
+  }
+>
+  <Text
+    style={
+      [
+        {
+          "color": "#000000",
+          "fontFamily": "Inter-Regular",
+          "fontSize": 16,
+          "fontWeight": "400",
+        },
+        {
+          "size": "small",
+          "variant": "semibold",
+        },
+      ]
+    }
+  >
+    Primary Button
+  </Text>
+</View>
+`;
+
+exports[`Button styles SHOULD render Container with primary variant WHEN no variant is passed 1`] = `
+<View
+  accessibilityState={
+    {
+      "busy": undefined,
+      "checked": undefined,
+      "disabled": undefined,
+      "expanded": undefined,
+      "selected": undefined,
+    }
+  }
+  accessibilityValue={
+    {
+      "max": undefined,
+      "min": undefined,
+      "now": undefined,
+      "text": undefined,
+    }
+  }
+  accessible={true}
+  collapsable={false}
+  focusable={false}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    {
+      "activeOpacity": 0.8,
+      "alignItems": "center",
+      "backgroundColor": "#007AFF",
+      "borderBottomLeftRadius": 8,
+      "borderBottomRightRadius": 8,
+      "borderColor": "transparent",
+      "borderTopLeftRadius": 8,
+      "borderTopRightRadius": 8,
+      "borderWidth": 0,
+      "justifyContent": "center",
+      "opacity": 1,
+      "paddingHorizontal": 16,
+      "paddingVertical": 12,
+    }
+  }
+>
+  <Text
+    style={
+      [
+        {
+          "color": "#000000",
+          "fontFamily": "Inter-Regular",
+          "fontSize": 16,
+          "fontWeight": "400",
+        },
+        {
+          "size": "small",
+          "variant": "semibold",
+        },
+      ]
+    }
+  >
+    Primary Button
+  </Text>
+</View>
+`;
+
+exports[`Button styles SHOULD render Container with secondary variant 1`] = `
+<View
+  accessibilityState={
+    {
+      "busy": undefined,
+      "checked": undefined,
+      "disabled": undefined,
+      "expanded": undefined,
+      "selected": undefined,
+    }
+  }
+  accessibilityValue={
+    {
+      "max": undefined,
+      "min": undefined,
+      "now": undefined,
+      "text": undefined,
+    }
+  }
+  accessible={true}
+  collapsable={false}
+  focusable={false}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    {
+      "activeOpacity": 0.8,
+      "alignItems": "center",
+      "backgroundColor": "transparent",
+      "borderBottomLeftRadius": 8,
+      "borderBottomRightRadius": 8,
+      "borderColor": "#cccccc",
+      "borderTopLeftRadius": 8,
+      "borderTopRightRadius": 8,
+      "borderWidth": 1,
+      "justifyContent": "center",
+      "opacity": 1,
+      "paddingHorizontal": 16,
+      "paddingVertical": 12,
+    }
+  }
+>
+  <Text
+    style={
+      [
+        {
+          "color": "#000000",
+          "fontFamily": "Inter-Regular",
+          "fontSize": 16,
+          "fontWeight": "400",
+        },
+        {
+          "size": "small",
+          "variant": "semibold",
+        },
+      ]
+    }
+  >
+    Secondary Button
+  </Text>
+</View>
+`;
+
+exports[`Button styles SHOULD render Label with text 1`] = `
+<Text
+  style={
+    [
+      {
+        "color": "#000000",
+        "fontFamily": "Inter-Regular",
+        "fontSize": 16,
+        "fontWeight": "400",
+      },
+      {
+        "size": "small",
+        "variant": "semibold",
+      },
+    ]
+  }
+>
+  Label Text
+</Text>
+`;

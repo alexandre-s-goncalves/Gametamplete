@@ -1,6 +1,8 @@
 {
   "game": {
     "welcome": "Bienvenido",
+    "start": "Iniciar juego",
+    "record": "Récord: {{record}}",
     "save": "Guardar",
     "load": "Cargar"
   },

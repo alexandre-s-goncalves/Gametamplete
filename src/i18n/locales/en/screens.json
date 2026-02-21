@@ -1,6 +1,8 @@
 {
   "game": {
     "welcome": "Welcome",
+    "start": "Start Game",
+    "record": "Highscore: {{record}}",
     "save": "Save",
     "load": "Load"
   },

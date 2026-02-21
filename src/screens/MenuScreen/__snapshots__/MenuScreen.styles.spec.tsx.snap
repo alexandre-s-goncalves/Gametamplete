@@ -1,0 +1,341 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MenuScreen styles SHOULD render Background with image and cover resize mode 1`] = `
+<View
+  accessibilityIgnoresInvertColors={true}
+  style={
+    {
+      "flexBasis": 0,
+      "flexGrow": 1,
+      "flexShrink": 1,
+    }
+  }
+>
+  <Image
+    resizeMode="cover"
+    source="test-file-stub"
+    style={
+      [
+        {
+          "bottom": 0,
+          "left": 0,
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+        },
+        {
+          "height": undefined,
+          "width": undefined,
+        },
+        undefined,
+      ]
+    }
+  />
+  <View
+    style={
+      {
+        "backgroundColor": "rgba(0,0,0,0.35)",
+        "flexBasis": 0,
+        "flexGrow": 1,
+        "flexShrink": 1,
+      }
+    }
+  />
+</View>
+`;
+
+exports[`MenuScreen styles SHOULD render ButtonSettings with secondary variant and white text 1`] = `
+<View
+  accessibilityState={
+    {
+      "busy": undefined,
+      "checked": undefined,
+      "disabled": undefined,
+      "expanded": undefined,
+      "selected": undefined,
+    }
+  }
+  accessibilityValue={
+    {
+      "max": undefined,
+      "min": undefined,
+      "now": undefined,
+      "text": undefined,
+    }
+  }
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    {
+      "activeOpacity": 0.8,
+      "alignItems": "center",
+      "backgroundColor": "transparent",
+      "borderBottomLeftRadius": 8,
+      "borderBottomRightRadius": 8,
+      "borderColor": "#ffffff",
+      "borderTopLeftRadius": 8,
+      "borderTopRightRadius": 8,
+      "borderWidth": 1,
+      "justifyContent": "center",
+      "opacity": 1,
+      "paddingHorizontal": 16,
+      "paddingVertical": 12,
+      "width": "100%",
+    }
+  }
+>
+  <Text
+    style={
+      [
+        {
+          "color": "#ffffff",
+          "fontFamily": "Inter-Regular",
+          "fontSize": 16,
+          "fontWeight": "400",
+        },
+        {
+          "size": "small",
+          "variant": "semibold",
+        },
+      ]
+    }
+  >
+    Settings
+  </Text>
+</View>
+`;
+
+exports[`MenuScreen styles SHOULD render ButtonStart with white text 1`] = `
+<View
+  accessibilityState={
+    {
+      "busy": undefined,
+      "checked": undefined,
+      "disabled": undefined,
+      "expanded": undefined,
+      "selected": undefined,
+    }
+  }
+  accessibilityValue={
+    {
+      "max": undefined,
+      "min": undefined,
+      "now": undefined,
+      "text": undefined,
+    }
+  }
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    {
+      "activeOpacity": 0.8,
+      "alignItems": "center",
+      "backgroundColor": "#a3a3a3",
+      "borderBottomLeftRadius": 8,
+      "borderBottomRightRadius": 8,
+      "borderColor": "transparent",
+      "borderTopLeftRadius": 8,
+      "borderTopRightRadius": 8,
+      "borderWidth": 0,
+      "justifyContent": "center",
+      "opacity": 1,
+      "paddingHorizontal": 16,
+      "paddingVertical": 12,
+      "width": "100%",
+    }
+  }
+>
+  <Text
+    style={
+      [
+        {
+          "color": "#ffffff",
+          "fontFamily": "Inter-Regular",
+          "fontSize": 16,
+          "fontWeight": "400",
+        },
+        {
+          "size": "small",
+          "variant": "semibold",
+        },
+      ]
+    }
+  >
+    Start Game
+  </Text>
+</View>
+`;
+
+exports[`MenuScreen styles SHOULD render ButtonWrapper with 70% width and vertical margin 1`] = `
+<View
+  style={
+    {
+      "marginVertical": 8,
+      "width": "70%",
+    }
+  }
+>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": undefined,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "activeOpacity": 0.8,
+        "alignItems": "center",
+        "backgroundColor": "#a3a3a3",
+        "borderBottomLeftRadius": 8,
+        "borderBottomRightRadius": 8,
+        "borderColor": "transparent",
+        "borderTopLeftRadius": 8,
+        "borderTopRightRadius": 8,
+        "borderWidth": 0,
+        "justifyContent": "center",
+        "opacity": 1,
+        "paddingHorizontal": 16,
+        "paddingVertical": 12,
+        "width": "100%",
+      }
+    }
+  >
+    <Text
+      style={
+        [
+          {
+            "color": "#ffffff",
+            "fontFamily": "Inter-Regular",
+            "fontSize": 16,
+            "fontWeight": "400",
+          },
+          {
+            "size": "small",
+            "variant": "semibold",
+          },
+        ]
+      }
+    >
+      Button
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`MenuScreen styles SHOULD render CenterContainer with flex 1 and centered content 1`] = `
+<View
+  style={
+    {
+      "alignItems": "center",
+      "flexBasis": 0,
+      "flexGrow": 1,
+      "flexShrink": 1,
+      "justifyContent": "center",
+    }
+  }
+  testID="center-container"
+/>
+`;
+
+exports[`MenuScreen styles SHOULD render FooterContainer with absolute positioning at bottom 1`] = `
+<View
+  style={
+    {
+      "alignItems": "center",
+      "bottom": 40,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+    }
+  }
+  testID="footer-container"
+/>
+`;
+
+exports[`MenuScreen styles SHOULD render HeaderContainer with absolute positioning at top 1`] = `
+<View
+  style={
+    {
+      "alignItems": "center",
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 48,
+    }
+  }
+  testID="header-container"
+/>
+`;
+
+exports[`MenuScreen styles SHOULD render Overlay with dark semi-transparent background 1`] = `
+<View
+  style={
+    {
+      "backgroundColor": "rgba(0,0,0,0.35)",
+      "flexBasis": 0,
+      "flexGrow": 1,
+      "flexShrink": 1,
+    }
+  }
+  testID="overlay"
+/>
+`;
+
+exports[`MenuScreen styles SHOULD render Title with semibold variant, big size and white color 1`] = `
+<Text
+  style={
+    [
+      {
+        "color": "#ffffff",
+        "fontFamily": "Inter-SemiBold",
+        "fontSize": 24,
+        "fontWeight": "600",
+      },
+      {
+        "marginBottom": 8,
+      },
+    ]
+  }
+  testID="title"
+>
+  Record: 1000
+</Text>
+`;

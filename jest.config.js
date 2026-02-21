@@ -9,10 +9,12 @@ module.exports = {
       '|@react-native' +
       '|@react-navigation' +
       '|react-native-gesture-handler' +
+      '|expo' +
       ')/)',
   ],
   moduleNameMapper: {
     '\\.(ttf|otf|png|jpg|jpeg|svg)$': '<rootDir>/__mocks__/fileMock.js',
+    '^expo-localization$': '<rootDir>/__mocks__/expoLocalizationMock.js',
   },
   setupFilesAfterEnv: ['<rootDir>/jest.setup.js'],
   coveragePathIgnorePatterns: [
